@@ -1,102 +1,101 @@
-﻿Prénom;Région;Adresse_email;Naissance;Telephone;Campus;Etudiant en réorientation/ arrêt étude;Temps entre obtention du diplôme et recrutement;Recruté par une entreprise;Etudiant ayant rejoint une autre école d'informatique;Etudiant en Contrat Pro;Etudiant ayant connu Supinfo via;Sexe;Temps de travail;Salaire à la sortie (par an)
-Brenden Flores;Auvergne-Rhône-Alpes;accumsan.sed.facilisis@consequatauctor.co.uk;23/03/92;02 86 54 02 52;Lyon;;2 mois;EDF;;Oui;Bouche à oreilles;H;1;33000
-Ciaran Barnes;Île-de-France;diam.Duis.mi@Proinvel.net;10/10/97;04 55 21 78 43;Paris;;0 jours;Framatome;;Oui;Publicité arrêt de bus;H;1;32325
-Palmer Watkins;Île-de-France;ultricies.sem.magna@Suspendisse.org;08/07/01;06 66 65 06 23;Paris;;2 mois;Caisse d'Epargne;;Non;Salon de l'étudiant;H;1;31567
-Tiger Hood;Auvergne-Rhône-Alpes;hendrerit@sedfacilisis.com;04/02/94;04 15 23 17 05;Lyon;;0 jours;Framatome;;Oui;Publicité sur Internet;H;2;33212
-Cullen Crane;Provence-Alpes-Côte d'Azur;tellus@ipsumSuspendisse.com;08/09/91;09 78 68 23 73;Paris;;0 jours;Carrefour;;Oui;Bouche à oreilles;H;2;32956
-Reuben Cole;Provence-Alpes-Côte d'Azur;Nullam@iaculis.edu;12/12/01;01 11 27 05 41;Paris;;15 jours;APPLE;;Non;Réseaux Sociaux;H;2;31567
-Robert Mcmahon;Auvergne-Rhône-Alpes;nec.urna@dictum.co.uk;28/03/01;06 82 57 39 95;Lille;Manque de moyens financier;;;;;Bouche à oreilles;H;2;30251
-Derek Leon;Occitanie;faucibus.orci@loremvitae.edu;06/10/02;03 02 52 70 96;Lyon;;6 mois;EDF;;Non;Salon de l'étudiant;H;1;30212
-Chester Delacruz;Île-de-France;id@Duisgravida.org;21/03/01;01 10 74 21 95;Lyon;;2 mois;APPLE;;Non;Publicité sur Internet;H;1;31296
-Rogan Cardenas;Pays de La Loire;justo@auctorullamcorper.net;04/03/02;08 89 38 01 67;PariS;;15 jours;Carrefour;;Non;Salon de l'étudiant;H;3;30254
-Ryder Yates;Île-de-France;nunc@aliquet.edu;07/09/96;04 68 26 20 52;Lyon;;1 mois;Bush;;Non;Salon de l'étudiant;H;2;29875
-Ishmael Key;Occitanie;dolor@laoreetposuereenim.org;22/11/01;06 04 05 78 23;Lyon;;15 jours;Amazon;;Non;Publicité sur Internet;H;2;33052
-Cole Knapp;Auvergne-Rhône-Alpes;dignissim@nequevenenatis.ca;23/05/92;01 80 40 57 41;Paris;;0 jours;Societe Generale;;Oui;Salon de l'étudiant;H;2;33985
-Graham Gould;Pays de La Loire;Suspendisse.aliquet.molestie@aaliquetvel.org;14/09/92;07 77 25 78 80;Lyon;;6 mois;Carrefour;;Non;Publicité sur Internet;H;2;32065
-Nathaniel Moody;Île-de-France;fermentum@euodiotristique.ca;01/04/92;04 47 50 31 15;Paris;;1 mois;tipee.com;;Non;Salon de l'étudiant;H;1;31985
-Timon Wilson;Île-de-France;semper@Quisque.edu;23/03/01;03 55 61 60 75;Tours;;2 mois;SNCF;;Non;Bouche à oreilles;H;1;32002
-Abbot Soto;Auvergne-Rhône-Alpes;lacus@metus.com;31/01/99;02 78 58 21 16;Lille;;6 mois;Cristalway;;Non;Salon de l'étudiant;H;1;31586
-Aidan Lynn;Occitanie;consectetuer.cursus.et@sapienNunc.com;09/01/99;01 75 18 69 15;Paris;;0 jours;SNCF;;Oui;Bouche à oreilles;H;2;33568
-Timon Fitzpatrick;Auvergne-Rhône-Alpes;ligula.consectetuer@egestasSed.co.uk;11/03/91;08 58 99 97 58;Lille;;0 jours;BackMarket;;Oui;Salon de l'étudiant;F;3;34526
-Phelan Galloway;Occitanie;Quisque.purus.sapien@vulputateeu.net;14/09/93;03 97 20 54 42;Lyon;Réorientation vers une autre fillaire/Ecole;;;Plomberie;;Bouche à oreilles;H;2;32547
-Amery Madden;Provence-Alpes-Côte d'Azur;enim@odio.co.uk;05/07/93;01 16 78 70 12;Lyon;Souhaite rentrer directement dans le monde du travail;;;;;Publicité sur Internet;H;2;31465
-Forrest Conway;Provence-Alpes-Côte d'Azur;euismod@sodalespurus.org;20/03/97;06 60 34 71 79;Caen;;0 jours;EDF;;Oui;Forum;H;1;32514
-Samuel Flynn;Pays de La Loire;ac@tincidunt.edu;14/01/99;04 93 03 52 45;Tourss;;15 jours;BP;;Non;Bouche à oreilles;H;1;31289
-Zachary Stephenson;Hauts-de-France;quam@pharetrafeliseget.com;27/07/99;02 03 25 98 03;Lyon;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité sur Internet;H;1;30254
-Christopher Ashley;Pays de La Loire;nonummy.ac@egestas.edu;26/12/92;02 01 72 89 67;Paris;;6 mois;BackMarket;;Non;Réseaux Sociaux;H;2;32698
-Kasper Cash;Auvergne-Rhône-Alpes;pellentesque.Sed@Aeneangravidanunc.co.uk;20/02/93;05 18 50 82 20;Lyon;Manque de moyens financier;;;;;Publicité sur Internet;H;2;32648
-Ferdinand Ruiz;Provence-Alpes-Côte d'Azur;sed.pede@Nuncsollicitudincommodo.co.uk;26/08/93;04 44 24 98 04;Lyon;;1 mois;APPLE;;Non;Salon de l'étudiant;H;1;29895
-Craig Walsh;Provence-Alpes-Côte d'Azur;fringilla.euismod.enim@vitaesodales.co.uk;24/09/98;04 16 14 65 13;Caen;;15 jours;Framatome;;Non;Forum;H;3;32568
-Otto Clarke;Auvergne-Rhône-Alpes;vulputate.nisi.sem@porttitorscelerisque.org;04/11/95;01 66 81 05 23;Paris;;2 mois;Caisse d'Epargne;;Non;Salon de l'étudiant;H;1;28423
-Grant Mccarthy;Île-de-France;nascetur@ullamcorpernislarcu.ca;04/08/92;08 54 26 03 14;Lyon;;6 mois;Societe Generale;;Non;Bouche à oreilles;H;2;29957
-Steel Owens;Auvergne-Rhône-Alpes;ultrices@non.net;11/03/00;03 47 45 11 05;Lyon;;2 mois;BP;;Non;Salon de l'étudiant;F;2;30589
-Ahmed Cervantes;Hauts-de-France;felis.purus@ornareFuscemollis.edu;19/08/99;05 73 35 36 62;Caen;;Pas de recrutement à ce jour;;;;Réseaux Sociaux;H;1;28195
-Damon Moreno;Île-de-France;justo@loremvehiculaet.ca;13/06/92;02 94 76 94 51;Lyon;Réorientation vers une autre fillaire/Ecole;;;;;Réseaux Sociaux;H;2;30018
-Chaim Logan;Île-de-France;enim@laciniamattisInteger.co.uk;25/10/94;01 36 96 50 74;Paris;;0 jours;EDF;;Oui;Forum;H;2;32518
-Cyrus Harrison;Occitanie;eu@vehicula.edu;30/06/98;02 53 11 86 30;Tours;;15 jours;Huawei;;Non;Salon de l'étudiant;H;2;30584
-Davis Roach;Hauts-de-France;mattis.ornare@feugiatplacerat.net;17/09/00;04 62 00 66 77;Caen;Souhaite rentrer directement dans le monde du travail;;;;;Forum;H;2;30989
-Ryder Vinson;Auvergne-Rhône-Alpes;sagittis.augue@tristiquepharetraQuisque.org;22/02/96;07 66 33 52 04;Lille;;15 jours;Huawei;;Non;Réseaux Sociaux;H;2;31564
-Neil Poole;Occitanie;quis.arcu.vel@orciluctuset.net;04/06/96;05 38 76 68 54;Paris;Manque de moyens financier;;;;;Forum;H;3;32598
-Calvin Mejia;Grand Est;ante.dictum@etnuncQuisque.ca;16/06/95;03 75 22 43 33;Paris;;6 mois;;;;Publicité sur Internet;H;3;33598
-Clarke Lawson;Auvergne-Rhône-Alpes;placerat@quis.net;10/10/96;06 67 71 87 61;Paris;;0 jours;SNCF;;;Forum;H;2;32147
-Jeremy Salinas;Centre-Val de Loire;neque.Nullam.nisl@quispede.org;08/10/92;07 87 44 19 54;Lyon;;Pas de recrutement à ce jour;;;;Réseaux Sociaux;H;2;31659
-Chadwick Wheeler;Île-de-France;non.vestibulum@Aliquamornarelibero.edu;23/10/02;01 66 24 60 58;Paris;;2 mois;HP;;Oui;Publicité sur Internet;H;2;33856
-Herman Livingston;Auvergne-Rhône-Alpes;iaculis@Cumsociis.com;02/01/95;06 90 38 20 62;Paris;;2 mois;;;;Forum;H;1;30087
-Keegan Battle;Centre-Val de Loire;porttitor.interdum@montes.edu;20/05/00;04 49 11 22 90;Lyonn;;6 mois;Societe Generale;;Non;Publicité sur Internet;H;1;30002
-Palmer Austin;Île-de-France;habitant.morbi@euenim.net;19/09/92;05 61 10 80 47;Paris;;0 jours;Framatome;;Non;Salon de l'étudiant;H;1;29785
-Jackson Stafford;Grand Est;habitant.morbi@eleifendvitaeerat.org;13/08/92;06 13 22 64 63;Lyon;;0 jours;EDF;;Oui;Publicité sur Internet;H;1;32005
-Simon Bridges;Nouvelle-Aquitaine;eu@molestietortor.edu;12/05/92;09 08 91 42 90;Lille;;15 jours;Societe Generale;;Oui;Salon de l'étudiant;H;3;34569
-Giacomo Underwood;Grand Est;arcu.iaculis@duiFusce.edu;09/07/93;06 27 35 76 08;Tours;;0 jours;SNCF;;Non;Publicité sur Internet;H;2;32596
-Isaac Simpson;Auvergne-Rhône-Alpes;Mauris.nulla@eutemporerat.co.uk;18/11/95;05 53 26 61 41;Lille;;0 jours;SNCF;;Oui;Salon de l'étudiant;H;2;33859
-Abdul Norman;Centre-Val de Loire;eu.turpis.Nulla@anteNuncmauris.com;14/01/91;04 43 01 18 00;Paris;;1 mois;Caisse d'Epargne;;Oui;Réseaux Sociaux;H;2;33569
-Phelan Ball;Île-de-France;massa@acfeugiat.ca;30/07/93;04 89 05 24 87;Lyon;Manque de moyens financier;;;;;Publicité arrêt de bus;H;1;31520
-Kelly Hines;Provence-Alpes-Côte d'Azur;euismod.ac@ante.net;09/04/99;05 24 03 89 76;Lyon;;15 jours;BNP Paribas;;;Réseaux Sociaux;H;2;32005
-Francis Boyer;Île-de-France;interdum.Curabitur@interdumfeugiatSed.co.uk;30/10/97;09 66 62 45 38;Lille;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité arrêt de bus;H;2;32156
-Nathaniel Booker;Bretagne;pede@nibh.edu;10/04/00;03 42 60 28 40;Lyon;;6 mois;NISSAN;;Non;Salon de l'étudiant;H;1;30158
-Giacomo Rasmussen;Auvergne-Rhône-Alpes;Curabitur.sed.tortor@Donec.org;25/01/94;06 22 68 95 76;Lyon;;15 jours;Amazon;;Non;Réseaux Sociaux;F;1;29125
-Arthur Mccullough;Centre-Val de Loire;nunc.sed.pede@risus.net;04/03/93;06 65 31 57 15;Paris;;2 mois;BNP Paribas;;Non;Salon de l'étudiant;H;2;29956
-Chaney Richardson;Île-de-France;lobortis@auctorullamcorpernisl.ca;14/08/94;04 39 46 15 69;Paris;;0 jours;ALSTOM;;Non;Salon de l'étudiant;H;2;31523
-Kenneth Edwards;Centre-Val de Loire;ligula.consectetuer.rhoncus@molestietellus.ca;21/05/02;03 39 34 40 76;Lille;;0 jours;TELSA;;Non;Salon de l'étudiant;N/A;;
-Louis Donovan;Île-de-France;orci.Ut.sagittis@Sedauctor.edu;16/09/93;08 35 45 62 19;Tours;;15 jours;Adidas;;Non;Publicité arrêt de bus;H;2;32048
-Randall Gibbs;Auvergne-Rhône-Alpes;faucibus.ut.nulla@eu.org;24/08/02;08 57 36 15 43;Paris;Souhaite rentrer directement dans le monde du travail;;;Informatique Epitech;;Salon de l'étudiant;H;2;33000
-Trevor Christian;Hauts-de-France;nibh.Quisque@eget.edu;09/01/92;02 98 24 71 57;Caen;;6 mois;;;;Publicité arrêt de bus;F;3;33987
-Knox Snow;Nouvelle-Aquitaine;in.faucibus.orci@velconvallisin.co.uk;21/02/02;03 37 39 70 96;Caen;Manque de moyens financier;;;;;Salon de l'étudiant;H;1;27512
-Nissim Colon;Bretagne;tristique.aliquet.Phasellus@magnanecquam.co.uk;11/07/99;03 57 90 82 98;Lyon;;15 jours;Deloitte;;Non;Salon de l'étudiant;H;1;22158
-Linus Tyler;Nouvelle-Aquitaine;elit.Aliquam.auctor@insodales.co.uk;14/09/94;01 06 72 40 67;Lille;;1 mois;ALTRAN;;Non;Réseaux Sociaux;H;2;30518
-Brody Griffith;Auvergne-Rhône-Alpes;Duis.mi@nequesed.net;23/09/92;03 85 23 38 14;Paris;;0 jours;EDF;;Oui;Publicité arrêt de bus;F;2;31058
-Brock Castillo;Provence-Alpes-Côte d'Azur;Vivamus.nibh.dolor@placeratorci.edu;13/11/00;05 52 18 04 59;Lyon;;15 jours;BNP Paribas;;Non;Publicité sur Internet;H;1;23845
-Anthony Sweet;Bretagne;feugiat.nec.diam@sed.com;20/01/98;06 31 74 16 71;Paris;;1 mois;;;;Salon de l'étudiant;H;1;24516
-Kuame Burke;Auvergne-Rhône-Alpes;Cras.dictum@placerategetvenenatis.ca;16/02/00;02 81 68 50 38;Lille;;1 mois;BackMarket;;Non;Salon de l'étudiant;H;1;21658
-Cody Collier;Normandie;euismod.est@nonantebibendum.co.uk;07/02/99;07 51 61 61 83;Paris;;0 jours;Orange;;Oui;Salon de l'étudiant;H;2;33516
-Ciaran Lowe;Nouvelle-Aquitaine;Duis.ac@Etiambibendumfermentum.net;09/08/94;09 36 31 85 85;Lyon;;2 mois;Amazon;;Non;Salon de l'étudiant;H;1;20365
-Colton Mcdowell;Auvergne-Rhône-Alpes;orci.consectetuer.euismod@risusquis.edu;20/10/96;02 44 03 50 22;Paris;;0 jours;BackMarket;;Non;Publicité arrêt de bus;H;2;30741
-Lev Dunlap;Normandie;gravida.molestie.arcu@mifringilla.edu;15/07/95;07 91 37 46 06;Caen;;Pas de recrutement à ce jour;;;;Réseaux Sociaux;H;3;34051
-Brady Peters;Provence-Alpes-Côte d'Azur;Mauris.quis.turpis@diamatpretium.ca;01/04/01;09 03 34 54 21;Caen;;1 mois;Deloitte;;Non;Salon de l'étudiant;F;2;31598
-Harlan Fulton;Grand Est;magna.Nam.ligula@nisl.com;12/09/00;02 81 12 08 19;Lille;;6 mois;ALTRAN;;Non;Réseaux Sociaux;H;1;23598
-Vincent Townsend;Grand Est;mauris.sapien@elit.ca;22/08/02;08 39 87 00 95;Lyon;;0 jours;Solvay;;Oui;Salon de l'étudiant;H;2;32598
-Jordan Avery;Île-de-France;lorem.luctus@molestie.co.uk;18/09/96;06 32 88 68 92;Paris;;1 mois;Amazon;;Non;Réseaux Sociaux;H;2;33045
-Isaac Mcmahon;Bretagne;felis.adipiscing.fringilla@lorem.ca;17/02/93;01 85 83 44 82;Lille;;15 jours;Orange;;Non;Salon de l'étudiant;H;2;32156
-Jameson Warner;Île-de-France;tempus.mauris@pede.net;13/11/94;01 43 94 58 52;Lille;;6 mois;ALSTOM;;Non;Réseaux Sociaux;H;1;24516
-Emerson Mcguire;Normandie;mi@Phasellus.ca;27/01/95;08 27 03 76 65;Lyon;;1 mois;ALSTOM;;Non;Publicité arrêt de bus;H;2;33598
-Bevis Franklin;Centre-Val de Loire;vel.venenatis.vel@magnaa.edu;16/02/91;09 03 82 07 04;Lille;;0 jours;Amazon;;Oui;Salon de l'étudiant;H;3;34769
-Ferris Cantrell;Auvergne-Rhône-Alpes;Aenean.eget@neque.net;09/02/95;04 27 80 25 97;Caen;;1 mois;Oracle;;;Publicité arrêt de bus;H;3;33576
-Yasir Conway;Grand Est;felis@porttitorscelerisque.org;22/09/92;03 21 51 64 93;Tours;;0 jours;Auchan;;Oui;Publicité arrêt de bus;H;2;32641
-Nero Reed;Centre-Val de Loire;diam@conubia.net;29/10/91;06 65 63 24 79;Lyon;;15 jours;ALSTOM;;Non;Réseaux Sociaux;H;2;32956
-Lev Mckenzie;Grand Est;cursus@blanditmattis.net;17/03/94;06 40 83 91 13;Caen;;0 jours;Orange;;Oui;Salon de l'étudiant;F;1;34512
-Alexander Pace;Auvergne-Rhône-Alpes;id@Aliquam.org;10/06/02;09 11 52 73 81;Lille;;1 mois;Auchan;;Non;Publicité arrêt de bus;H;2;30001
-Burton Powell;Occitanie;non.lobortis.quis@commodo.edu;21/07/91;07 62 33 97 55;Paris;;Pas de recrutement à ce jour;;;;Réseaux Sociaux;H;2;32105
-Cain Merritt;Auvergne-Rhône-Alpes;adipiscing.elit.Curabitur@sedleoCras.ca;21/07/02;09 28 15 51 11;Lyon;;0 jours;DISNEYLAND PARIS;;Oui;Publicité arrêt de bus;H;2;32969
-Jamal Hawkins;Normandie;est.ac@pellentesquetellussem.co.uk;06/07/99;02 41 04 20 63;Caen;;Pas de recrutement à ce jour;;;;Publicité arrêt de bus;H;1;23012
-Maxwell Mathis;Grand Est;aliquam.enim.nec@Morbisit.com;22/11/98;06 74 25 31 06;Lille;Manque de moyens financier;;;;;Salon de l'étudiant;H;1;22795
-Todd Garrison;Provence-Alpes-Côte d'Azur;malesuada@placerat.co.uk;06/12/98;04 45 11 97 44;Lyon;Réorientation vers une autre fillaire/Ecole;;;;;Publicité arrêt de bus;F;3;32547
-Elton Bradley;Auvergne-Rhône-Alpes;sit.amet@nisiAeneaneget.org;23/08/00;03 15 50 06 29;Caen;;15 jours;ALTRAN;;;Salon de l'étudiant;H;1;22523
-Lester Downs;Grand Est;aliquet@mifringillami.net;03/11/95;04 70 83 49 41;Caen;Manque de moyens financier;;;;;Réseaux Sociaux;H;2;28952
-William Watts;Auvergne-Rhône-Alpes;Nulla.tempor.augue@temporestac.net;03/08/92;09 96 24 43 66;Lyon;;Pas de recrutement à ce jour;;;;Publicité sur Internet;H;2;30015
-Len Sweeney;Normandie;iaculis.nec.eleifend@ut.edu;11/09/96;01 95 09 01 99;Lyon;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité arrêt de bus;H;1;26128
-Clarke Ford;Bretagne;Nunc@malesuada.ca;09/06/96;07 29 03 87 07;Tours;;15 jours;Auchan;;Non;Publicité sur Internet;H;1;23015
-Alden Odonnell;Pays de La Loire;Etiam@auctor.net;06/05/91;02 63 72 73 05;Caen;;1 mois;DISNEYLAND PARIS;;Oui;Salon de l'étudiant;F;3;34528
-Cody Flynn;Provence-Alpes-Côte d'Azur;sapien@laoreetlibero.ca;11/02/93;01 43 92 79 99;PariS;;15 jours;ALSTOM;;Non;Réseaux Sociaux;H;2;31248
-Lester Washington;Auvergne-Rhône-Alpes;mauris.sit@nonummyFuscefermentum.co.uk;28/03/99;04 32 89 12 92;Lille;;0 jours;Amazon;;Oui;Salon de l'étudiant;H;1;33854
-Barclay Case;Bretagne;odio.auctor@estmaurisrhoncus.com;09/01/02;04 87 28 07 61;Tours;;15 jours;Auchan;;Non;Publicité sur Internet;H;1;25123
-Silas Johnston;Île-de-France;Cum.sociis@loremluctusut.org;02/12/01;03 26 24 48 81;Caen;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité arrêt de bus;F;2;32112
-;;;;;;;;;;;;;;
+﻿Prénom;Région;Adresse_email;Naissance;Telephone;Campus;Etudiant en réorientation/ arrêt étude;Temps entre obtention du diplôme et recrutement;Recruté par une entreprise;Etudiant ayant rejoint une autre école d'informatique;Etudiant en Contrat Pro;Etudiant ayant connu Supinfo via;Sexe;Temps de travail;Salaire à la sortie (par an);Crédit Obtenu
+Brenden Flores;Auvergne-Rhône-Alpes;accumsan.sed.facilisis@consequatauctor.co.uk;23/03/1992;02 86 54 02 52;Lyon;;2 mois;EDF;;Oui;Bouche à oreilles;H;1;33000;300
+Ciaran Barnes;Île-de-France;diam.Duis.mi@Proinvel.net;10/10/1997;04 55 21 78 43;Paris;;0 jours;Framatome;;Oui;Publicité arrêt de bus;H;1;32325;300
+Palmer Watkins;Île-de-France;ultricies.sem.magna@Suspendisse.org;08/07/2001;06 66 65 06 23;Paris;;2 mois;Caisse d'Epargne;;Non;Salon de l'étudiant;H;1;31567;250
+Tiger Hood;Auvergne-Rhône-Alpes;hendrerit@sedfacilisis.com;04/02/1994;04 15 23 17 05;Lyon;;0 jours;Framatome;;Oui;Publicité sur Internet;H;2;33212;300
+Cullen Crane;Provence-Alpes-Côte d'Azur;tellus@ipsumSuspendisse.com;08/09/1991;09 78 68 23 73;Paris;;0 jours;Carrefour;;Oui;Bouche à oreilles;H;2;32956;285
+Reuben Cole;Provence-Alpes-Côte d'Azur;Nullam@iaculis.edu;12/12/2001;01 11 27 05 41;Paris;;15 jours;APPLE;;Non;Réseaux Sociaux;H;2;31567;262
+Robert Mcmahon;Auvergne-Rhône-Alpes;nec.urna@dictum.co.uk;28/03/2001;06 82 57 39 95;Lille;Manque de moyens financier;;;;;Bouche à oreilles;H;2;30251;
+Derek Leon;Occitanie;faucibus.orci@loremvitae.edu;06/10/2002;03 02 52 70 96;Lyon;;6 mois;EDF;;Non;Salon de l'étudiant;H;1;30212;295
+Chester Delacruz;Île-de-France;id@Duisgravida.org;21/03/2001;01 10 74 21 95;Lyon;;2 mois;APPLE;;Non;Publicité sur Internet;H;1;31296;236
+Rogan Cardenas;Pays de La Loire;justo@auctorullamcorper.net;04/03/2002;08 89 38 01 67;PariS;;15 jours;Carrefour;;Non;Salon de l'étudiant;H;3;30254;292
+Ryder Yates;Île-de-France;nunc@aliquet.edu;07/09/1996;04 68 26 20 52;Lyon;;1 mois;Bush;;Non;Salon de l'étudiant;H;2;29875;265
+Ishmael Key;Occitanie;dolor@laoreetposuereenim.org;22/11/2001;06 04 05 78 23;Lyon;;15 jours;Amazon;;Non;Publicité sur Internet;H;2;33052;278
+Cole Knapp;Auvergne-Rhône-Alpes;dignissim@nequevenenatis.ca;23/05/1992;01 80 40 57 41;Paris;;0 jours;Societe Generale;;Oui;Salon de l'étudiant;H;2;33985;300
+Graham Gould;Pays de La Loire;Suspendisse.aliquet.molestie@aaliquetvel.org;14/09/1992;07 77 25 78 80;Lyon;;6 mois;Carrefour;;Non;Publicité sur Internet;H;2;32065;259
+Nathaniel Moody;Île-de-France;fermentum@euodiotristique.ca;01/04/1992;04 47 50 31 15;Paris;;1 mois;tipee.com;;Non;Salon de l'étudiant;H;1;31985;284
+Timon Wilson;Île-de-France;semper@Quisque.edu;23/03/2001;03 55 61 60 75;Tours;;2 mois;SNCF;;Non;Bouche à oreilles;H;1;32002;258
+Abbot Soto;Auvergne-Rhône-Alpes;lacus@metus.com;31/01/1999;02 78 58 21 16;Lille;;6 mois;Cristalway;;Non;Salon de l'étudiant;H;1;31586;268
+Aidan Lynn;Occitanie;consectetuer.cursus.et@sapienNunc.com;09/01/1999;01 75 18 69 15;Paris;;0 jours;SNCF;;Oui;Bouche à oreilles;H;2;33568;248
+Timon Fitzpatrick;Auvergne-Rhône-Alpes;ligula.consectetuer@egestasSed.co.uk;11/03/1991;08 58 99 97 58;Lille;;0 jours;BackMarket;;Oui;Salon de l'étudiant;F;3;34526;300
+Phelan Galloway;Occitanie;Quisque.purus.sapien@vulputateeu.net;14/09/1993;03 97 20 54 42;Lyon;Réorientation vers une autre fillaire/Ecole;;;Plomberie;;Bouche à oreilles;H;;;
+Amery Madden;Provence-Alpes-Côte d'Azur;enim@odio.co.uk;05/07/1993;01 16 78 70 12;Lyon;Souhaite rentrer directement dans le monde du travail;;;;;Publicité sur Internet;H;2;31465;297
+Forrest Conway;Provence-Alpes-Côte d'Azur;euismod@sodalespurus.org;20/03/1997;06 60 34 71 79;Caen;;0 jours;EDF;;Oui;Forum;H;1;32514;300
+Samuel Flynn;Pays de La Loire;ac@tincidunt.edu;14/01/1999;04 93 03 52 45;Tourss;;15 jours;BP;;Non;Bouche à oreilles;H;1;31289;287
+Zachary Stephenson;Hauts-de-France;quam@pharetrafeliseget.com;27/07/1999;02 03 25 98 03;Lyon;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité sur Internet;H;;;
+Christopher Ashley;Pays de La Loire;nonummy.ac@egestas.edu;26/12/1992;02 01 72 89 67;Paris;;6 mois;BackMarket;;Non;Réseaux Sociaux;H;2;32698;259
+Kasper Cash;Auvergne-Rhône-Alpes;pellentesque.Sed@Aeneangravidanunc.co.uk;20/02/1993;05 18 50 82 20;Lyon;Manque de moyens financier;;;;;Publicité sur Internet;H;2;32648;281
+Ferdinand Ruiz;Provence-Alpes-Côte d'Azur;sed.pede@Nuncsollicitudincommodo.co.uk;26/08/1993;04 44 24 98 04;Lyon;;1 mois;APPLE;;Non;Salon de l'étudiant;H;1;29895;280
+Craig Walsh;Provence-Alpes-Côte d'Azur;fringilla.euismod.enim@vitaesodales.co.uk;24/09/1998;04 16 14 65 13;Caen;;15 jours;Framatome;;Non;Forum;H;3;32568;230
+Otto Clarke;Auvergne-Rhône-Alpes;vulputate.nisi.sem@porttitorscelerisque.org;04/11/1995;01 66 81 05 23;Paris;;2 mois;Caisse d'Epargne;;Non;Salon de l'étudiant;H;1;28423;270
+Grant Mccarthy;Île-de-France;nascetur@ullamcorpernislarcu.ca;04/08/1992;08 54 26 03 14;Lyon;;6 mois;Societe Generale;;Non;Bouche à oreilles;H;2;29957;300
+Steel Owens;Auvergne-Rhône-Alpes;ultrices@non.net;11/03/2000;03 47 45 11 05;Lyon;;2 mois;BP;;Non;Salon de l'étudiant;F;2;30589;298
+Ahmed Cervantes;Hauts-de-France;felis.purus@ornareFuscemollis.edu;19/08/1999;05 73 35 36 62;Caen;;Pas de recrutement à ce jour;;;Non;Réseaux Sociaux;H;1;28195;299
+Damon Moreno;Île-de-France;justo@loremvehiculaet.ca;13/06/1992;02 94 76 94 51;Lyon;Réorientation vers une autre fillaire/Ecole;;;;Non;Réseaux Sociaux;H;2;30018;278
+Chaim Logan;Île-de-France;enim@laciniamattisInteger.co.uk;25/10/1994;01 36 96 50 74;Paris;;0 jours;EDF;;Oui;Forum;H;2;32518;300
+Cyrus Harrison;Occitanie;eu@vehicula.edu;30/06/1998;02 53 11 86 30;Tours;;15 jours;Huawei;;Non;Salon de l'étudiant;H;2;30584;291
+Davis Roach;Hauts-de-France;mattis.ornare@feugiatplacerat.net;17/09/2000;04 62 00 66 77;Caen;Souhaite rentrer directement dans le monde du travail;;;;Non;Forum;H;2;30989;293
+Ryder Vinson;Auvergne-Rhône-Alpes;sagittis.augue@tristiquepharetraQuisque.org;22/02/1996;07 66 33 52 04;Lille;;15 jours;Huawei;;Non;Réseaux Sociaux;H;2;31564;281
+Neil Poole;Occitanie;quis.arcu.vel@orciluctuset.net;04/06/1996;05 38 76 68 54;Paris;Manque de moyens financier;;;;Non;Forum;H;3;32598;297
+Calvin Mejia;Grand Est;ante.dictum@etnuncQuisque.ca;16/06/1995;03 75 22 43 33;Paris;;6 mois;;;Non;Publicité sur Internet;H;3;33598;258
+Clarke Lawson;Auvergne-Rhône-Alpes;placerat@quis.net;10/10/1996;06 67 71 87 61;Paris;;0 jours;SNCF;;Non;Forum;H;2;32147;298
+Jeremy Salinas;Centre-Val de Loire;neque.Nullam.nisl@quispede.org;08/10/1992;07 87 44 19 54;Lyon;;Pas de recrutement à ce jour;;;Non;Réseaux Sociaux;H;2;31659;249
+Chadwick Wheeler;Île-de-France;non.vestibulum@Aliquamornarelibero.edu;23/10/2002;01 66 24 60 58;Paris;;2 mois;HP;;Oui;Publicité sur Internet;H;2;33856;289
+Herman Livingston;Auvergne-Rhône-Alpes;iaculis@Cumsociis.com;02/01/1995;06 90 38 20 62;Paris;;2 mois;;;Non;Forum;H;1;30087;271
+Keegan Battle;Centre-Val de Loire;porttitor.interdum@montes.edu;20/05/2000;04 49 11 22 90;Lyonn;;6 mois;Societe Generale;;Non;Publicité sur Internet;H;1;30002;300
+Palmer Austin;Île-de-France;habitant.morbi@euenim.net;19/09/1992;05 61 10 80 47;Paris;;0 jours;Framatome;;Non;Salon de l'étudiant;H;1;29785;256
+Jackson Stafford;Grand Est;habitant.morbi@eleifendvitaeerat.org;13/08/1992;06 13 22 64 63;Lyon;;0 jours;EDF;;Oui;Publicité sur Internet;H;1;32005;300
+Simon Bridges;Nouvelle-Aquitaine;eu@molestietortor.edu;12/05/1992;09 08 91 42 90;Lille;;15 jours;Societe Generale;;Oui;Salon de l'étudiant;H;3;34569;298
+Giacomo Underwood;Grand Est;arcu.iaculis@duiFusce.edu;09/07/1993;06 27 35 76 08;Tours;;0 jours;SNCF;;Non;Publicité sur Internet;H;2;32596;297
+Isaac Simpson;Auvergne-Rhône-Alpes;Mauris.nulla@eutemporerat.co.uk;18/11/1995;05 53 26 61 41;Lille;;0 jours;SNCF;;Oui;Salon de l'étudiant;H;2;33859;265
+Abdul Norman;Centre-Val de Loire;eu.turpis.Nulla@anteNuncmauris.com;14/01/1991;04 43 01 18 00;Paris;;1 mois;Caisse d'Epargne;;Oui;Réseaux Sociaux;H;2;33569;289
+Phelan Ball;Île-de-France;massa@acfeugiat.ca;30/07/1993;04 89 05 24 87;Lyon;Manque de moyens financier;;;;Non;Publicité arrêt de bus;H;1;31520;287
+Kelly Hines;Provence-Alpes-Côte d'Azur;euismod.ac@ante.net;09/04/1999;05 24 03 89 76;Lyon;;15 jours;BNP Paribas;;Non;Réseaux Sociaux;H;2;32005;298
+Francis Boyer;Île-de-France;interdum.Curabitur@interdumfeugiatSed.co.uk;30/10/1997;09 66 62 45 38;Lille;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;Non;Publicité arrêt de bus;H;;;
+Nathaniel Booker;Bretagne;pede@nibh.edu;10/04/2000;03 42 60 28 40;Lyon;;6 mois;NISSAN;;Non;Salon de l'étudiant;H;1;30158;300
+Giacomo Rasmussen;Auvergne-Rhône-Alpes;Curabitur.sed.tortor@Donec.org;25/01/1994;06 22 68 95 76;Lyon;;15 jours;Amazon;;Non;Réseaux Sociaux;F;1;29125;289
+Arthur Mccullough;Centre-Val de Loire;nunc.sed.pede@risus.net;04/03/1993;06 65 31 57 15;Paris;;2 mois;BNP Paribas;;Non;Salon de l'étudiant;H;2;29956;296
+Chaney Richardson;Île-de-France;lobortis@auctorullamcorpernisl.ca;14/08/1994;04 39 46 15 69;Paris;;0 jours;ALSTOM;;Non;Salon de l'étudiant;H;2;31523;297
+Kenneth Edwards;Centre-Val de Loire;ligula.consectetuer.rhoncus@molestietellus.ca;21/05/2002;03 39 34 40 76;Lille;;0 jours;TELSA;;Non;Salon de l'étudiant;N/A;;31526;268
+Louis Donovan;Île-de-France;orci.Ut.sagittis@Sedauctor.edu;16/09/1993;08 35 45 62 19;Tours;;15 jours;Adidas;;Non;Publicité arrêt de bus;H;2;32048;278
+Randall Gibbs;Auvergne-Rhône-Alpes;faucibus.ut.nulla@eu.org;24/08/2002;08 57 36 15 43;Paris;Souhaite rentrer directement dans le monde du travail;;;Informatique Epitech;;Salon de l'étudiant;H;;;
+Trevor Christian;Hauts-de-France;nibh.Quisque@eget.edu;09/01/1992;02 98 24 71 57;Caen;;6 mois;;;Non;Publicité arrêt de bus;F;3;33987;296
+Knox Snow;Nouvelle-Aquitaine;in.faucibus.orci@velconvallisin.co.uk;21/02/2002;03 37 39 70 96;Caen;Manque de moyens financier;;;;Non;Salon de l'étudiant;H;1;27512;238
+Nissim Colon;Bretagne;tristique.aliquet.Phasellus@magnanecquam.co.uk;11/07/1999;03 57 90 82 98;Lyon;;15 jours;Deloitte;;Non;Salon de l'étudiant;H;1;22158;297
+Linus Tyler;Nouvelle-Aquitaine;elit.Aliquam.auctor@insodales.co.uk;14/09/1994;01 06 72 40 67;Lille;;1 mois;ALTRAN;;Non;Réseaux Sociaux;H;2;30518;280
+Brody Griffith;Auvergne-Rhône-Alpes;Duis.mi@nequesed.net;23/09/1992;03 85 23 38 14;Paris;;0 jours;EDF;;Oui;Publicité arrêt de bus;F;2;31058;300
+Brock Castillo;Provence-Alpes-Côte d'Azur;Vivamus.nibh.dolor@placeratorci.edu;13/11/2000;05 52 18 04 59;Lyon;;15 jours;BNP Paribas;;Non;Publicité sur Internet;H;1;23845;247
+Anthony Sweet;Bretagne;feugiat.nec.diam@sed.com;20/01/1998;06 31 74 16 71;Paris;;1 mois;;;Non;Salon de l'étudiant;H;1;24516;298
+Kuame Burke;Auvergne-Rhône-Alpes;Cras.dictum@placerategetvenenatis.ca;16/02/2000;02 81 68 50 38;Lille;;1 mois;BackMarket;;Non;Salon de l'étudiant;H;1;21658;295
+Cody Collier;Normandie;euismod.est@nonantebibendum.co.uk;07/02/1999;07 51 61 61 83;Paris;;0 jours;Orange;;Oui;Salon de l'étudiant;H;2;33516;291
+Ciaran Lowe;Nouvelle-Aquitaine;Duis.ac@Etiambibendumfermentum.net;09/08/1994;09 36 31 85 85;Lyon;;2 mois;Amazon;;Non;Salon de l'étudiant;H;1;20365;293
+Colton Mcdowell;Auvergne-Rhône-Alpes;orci.consectetuer.euismod@risusquis.edu;20/10/1996;02 44 03 50 22;Paris;;0 jours;BackMarket;;Non;Publicité arrêt de bus;H;2;30741;292
+Lev Dunlap;Normandie;gravida.molestie.arcu@mifringilla.edu;15/07/1995;07 91 37 46 06;Caen;;Pas de recrutement à ce jour;;;Non;Réseaux Sociaux;H;3;34051;294
+Brady Peters;Provence-Alpes-Côte d'Azur;Mauris.quis.turpis@diamatpretium.ca;01/04/2001;09 03 34 54 21;Caen;;1 mois;Deloitte;;Non;Salon de l'étudiant;F;2;31598;290
+Harlan Fulton;Grand Est;magna.Nam.ligula@nisl.com;12/09/2000;02 81 12 08 19;Lille;;6 mois;ALTRAN;;Non;Réseaux Sociaux;H;1;23598;300
+Vincent Townsend;Grand Est;mauris.sapien@elit.ca;22/08/2002;08 39 87 00 95;Lyon;;0 jours;Solvay;;Oui;Salon de l'étudiant;H;2;32598;290
+Jordan Avery;Île-de-France;lorem.luctus@molestie.co.uk;18/09/1996;06 32 88 68 92;Paris;;1 mois;Amazon;;Non;Réseaux Sociaux;H;2;33045;290
+Isaac Mcmahon;Bretagne;felis.adipiscing.fringilla@lorem.ca;17/02/1993;01 85 83 44 82;Lille;;15 jours;Orange;;Non;Salon de l'étudiant;H;2;32156;290
+Jameson Warner;Île-de-France;tempus.mauris@pede.net;13/11/1994;01 43 94 58 52;Lille;;6 mois;ALSTOM;;Non;Réseaux Sociaux;H;1;24516;278
+Emerson Mcguire;Normandie;mi@Phasellus.ca;27/01/1995;08 27 03 76 65;Lyon;;1 mois;ALSTOM;;Non;Publicité arrêt de bus;H;2;33598;286
+Bevis Franklin;Centre-Val de Loire;vel.venenatis.vel@magnaa.edu;16/02/1991;09 03 82 07 04;Lille;;0 jours;Amazon;;Oui;Salon de l'étudiant;H;3;34769;287
+Ferris Cantrell;Auvergne-Rhône-Alpes;Aenean.eget@neque.net;09/02/1995;04 27 80 25 97;Caen;;1 mois;Oracle;;Non;Publicité arrêt de bus;H;3;33576;288
+Yasir Conway;Grand Est;felis@porttitorscelerisque.org;22/09/1992;03 21 51 64 93;Tours;;0 jours;Auchan;;Oui;Publicité arrêt de bus;H;2;32641;289
+Nero Reed;Centre-Val de Loire;diam@conubia.net;29/10/1991;06 65 63 24 79;Lyon;;15 jours;ALSTOM;;Non;Réseaux Sociaux;H;2;32956;290
+Lev Mckenzie;Grand Est;cursus@blanditmattis.net;17/03/1994;06 40 83 91 13;Caen;;0 jours;Orange;;Oui;Salon de l'étudiant;F;1;34512;300
+Alexander Pace;Auvergne-Rhône-Alpes;id@Aliquam.org;10/06/2002;09 11 52 73 81;Lille;;1 mois;Auchan;;Non;Publicité arrêt de bus;H;2;30001;285
+Burton Powell;Occitanie;non.lobortis.quis@commodo.edu;21/07/1991;07 62 33 97 55;Paris;;Pas de recrutement à ce jour;;;Non;Réseaux Sociaux;H;2;32105;284
+Cain Merritt;Auvergne-Rhône-Alpes;adipiscing.elit.Curabitur@sedleoCras.ca;21/07/2002;09 28 15 51 11;Lyon;;0 jours;DISNEYLAND PARIS;;Oui;Publicité arrêt de bus;H;2;32969;283
+Jamal Hawkins;Normandie;est.ac@pellentesquetellussem.co.uk;06/07/1999;02 41 04 20 63;Caen;;Pas de recrutement à ce jour;;;Non;Publicité arrêt de bus;H;1;23012;282
+Maxwell Mathis;Grand Est;aliquam.enim.nec@Morbisit.com;22/11/1998;06 74 25 31 06;Lille;Manque de moyens financier;;;;Oui;Salon de l'étudiant;H;1;22795;281
+Todd Garrison;Provence-Alpes-Côte d'Azur;malesuada@placerat.co.uk;06/12/1998;04 45 11 97 44;Lyon;Réorientation vers une autre fillaire/Ecole;;;;Non;Publicité arrêt de bus;F;3;32547;289
+Elton Bradley;Auvergne-Rhône-Alpes;sit.amet@nisiAeneaneget.org;23/08/2000;03 15 50 06 29;Caen;;15 jours;ALTRAN;;Non;Salon de l'étudiant;H;1;22523;280
+Lester Downs;Grand Est;aliquet@mifringillami.net;03/11/1995;04 70 83 49 41;Caen;Manque de moyens financier;;;;Non;Réseaux Sociaux;H;2;28952;279
+William Watts;Auvergne-Rhône-Alpes;Nulla.tempor.augue@temporestac.net;03/08/1992;09 96 24 43 66;Lyon;;Pas de recrutement à ce jour;;;Non;Publicité sur Internet;H;2;30015;278
+Len Sweeney;Normandie;iaculis.nec.eleifend@ut.edu;11/09/1996;01 95 09 01 99;Lyon;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité arrêt de bus;H;;;
+Clarke Ford;Bretagne;Nunc@malesuada.ca;09/06/1996;07 29 03 87 07;Tours;;15 jours;Auchan;;Non;Publicité sur Internet;H;1;23015;289
+Alden Odonnell;Pays de La Loire;Etiam@auctor.net;06/05/1991;02 63 72 73 05;Caen;;1 mois;DISNEYLAND PARIS;;Oui;Salon de l'étudiant;F;3;34528;291
+Cody Flynn;Provence-Alpes-Côte d'Azur;sapien@laoreetlibero.ca;11/02/1993;01 43 92 79 99;PariS;;15 jours;ALSTOM;;Non;Réseaux Sociaux;H;2;31248;298
+Lester Washington;Auvergne-Rhône-Alpes;mauris.sit@nonummyFuscefermentum.co.uk;28/03/1999;04 32 89 12 92;Lille;;0 jours;Amazon;;Oui;Salon de l'étudiant;H;1;33854;300
+Barclay Case;Bretagne;odio.auctor@estmaurisrhoncus.com;09/01/2002;04 87 28 07 61;Tours;;15 jours;Auchan;;Non;Publicité sur Internet;H;1;25123;289
+Silas Johnston;Île-de-France;Cum.sociis@loremluctusut.org;02/12/2001;03 26 24 48 81;Caen;Réorientation vers une autre fillaire/Ecole;;;Informatique Epitech;;Publicité arrêt de bus;F;;;
